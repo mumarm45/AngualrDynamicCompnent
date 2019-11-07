@@ -1,2 +1,0 @@
-# AngualrDynamicCompnent
-Created with CodeSandbox
